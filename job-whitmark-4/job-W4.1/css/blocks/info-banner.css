@@ -1,0 +1,46 @@
+.info-banner {
+    display: flex;
+    width: 1230px;
+    min-height: 320px;
+    border-radius: 0 60px 0 60px;
+    padding: 85px 90px;
+    background-image: url("https://i.ibb.co/q3dcPmv4/4-2-1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    justify-content: space-between;
+    align-items: center;
+    color: #ffffff;
+    font-family: "IBM Plex Sans", "Arial", sans-serif;
+    margin-bottom: 120px;
+}
+
+.info-banner__title {
+    font-size: 44px;
+    line-height: 48px;
+    font-weight: 300;
+    text-transform: uppercase;
+    margin: 0;
+}
+
+.info-banner__inner {
+    width: 460px;
+    text-align: right;
+}
+
+.info-banner__text {
+    margin: 0;
+    margin-bottom: 30px;
+    font-size: 16px;
+    line-height: 22px;
+    font-weight: 300;
+}
+
+.info-banner__link {
+    display: inline-block;
+    width: 220px;
+    padding: 7px 0;
+    background: #D6D2C4;
+    border-radius: 40px;
+    text-align: center;
+    color: #1D252D;
+}
